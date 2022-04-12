@@ -14,8 +14,6 @@
 <br>
 
 - 작업물 파일경로
-    - MOVINIAL/src/com/movinial/community/*(하위) <a href="https://github.com/MOVINIAL-project/MOVINIAL_PROJECT/tree/master/src/com/movinial/community/controller">바로가기</a> [Controller,Dao,Service,vo]
-    - WeMakeSalad/sosoButStrong/src/main/java/com/sbs/wemasal/customer/*(하위, 일부제외) <a href="https://github.com/JM261/WeMakeSalad/tree/master/sosoButStrong/src/main/java/com/sbs/wemasal/customer">바로가기</a> [Controller,Dao,Service,vo]
-    - WeMakeSalad/sosoButStrong/src/main/webapp/WEB-INF/views/user/seller/*(하위, 일부제외) <a href="https://github.com/JM261/WeMakeSalad/tree/master/sosoButStrong/src/main/webapp/WEB-INF/views/user/seller">바로가기</a> [view]
+    - MOVINIAL/src/com/movinial/community/*(하위) <a href="https://github.com/JM261/MOVINIAL/tree/master/src/com/movinial/community">바로가기</a> [Controller,Dao,Service,vo]
     - WeMakeSalad/sosoButStrong/src/main/webapp/WEB-INF/views/user/customer/*(하위) <a href="https://github.com/JM261/WeMakeSalad/tree/master/sosoButStrong/src/main/webapp/WEB-INF/views/user/customer">바로가기</a> [view]
     - MOVINIAL_PROJECT/src/sql/community/community-mapper.xml <a href="https://github.com/MOVINIAL-project/MOVINIAL_PROJECT/blob/master/src/sql/community/community-mapper.xml">바로가기</a> [SQL-Oracle]
