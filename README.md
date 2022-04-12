@@ -18,4 +18,4 @@
     - WeMakeSalad/sosoButStrong/src/main/java/com/sbs/wemasal/customer/*(하위, 일부제외) <a href="https://github.com/JM261/WeMakeSalad/tree/master/sosoButStrong/src/main/java/com/sbs/wemasal/customer">바로가기</a> [Controller,Dao,Service,vo]
     - WeMakeSalad/sosoButStrong/src/main/webapp/WEB-INF/views/user/seller/*(하위, 일부제외) <a href="https://github.com/JM261/WeMakeSalad/tree/master/sosoButStrong/src/main/webapp/WEB-INF/views/user/seller">바로가기</a> [view]
     - WeMakeSalad/sosoButStrong/src/main/webapp/WEB-INF/views/user/customer/*(하위) <a href="https://github.com/JM261/WeMakeSalad/tree/master/sosoButStrong/src/main/webapp/WEB-INF/views/user/customer">바로가기</a> [view]
-    - WeMakeSalad/sosoButStrong/src/main/resources/mappers/seller-mapper.xml <a href="https://github.com/JM261/WeMakeSalad/blob/master/sosoButStrong/src/main/resources/mappers/seller-mapper.xml">바로가기</a> [SQL-Oracle]
+    - MOVINIAL_PROJECT/src/sql/community/community-mapper.xml <a href="https://github.com/MOVINIAL-project/MOVINIAL_PROJECT/blob/master/src/sql/community/community-mapper.xml">바로가기</a> [SQL-Oracle]
